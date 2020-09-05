@@ -1,3 +1,15 @@
+# tested frameworks
+### [Chartist](http://gionkunz.github.io/chartist-js/index.html)
+There's a [react-chartist library](https://www.npmjs.com/package/react-chartist) but it lacks proper documentation
+Neither chartist or react-chartist have been updated since 2015
+
+### [D3](https://d3js.org/)
+I've heard about it multiple times, but noone that has actually successfully implemented the original version
+I tried, and it's not compatible with react hooks
+The documentation is absolute trash
+
+
+# npx create-react-app readme
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
